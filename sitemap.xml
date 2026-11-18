@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://where-does-your-tax-dollar-go.pages.dev/</loc></url>
-  <url><loc>https://where-does-your-tax-dollar-go.pages.dev/about.html</loc></url>
-  <url><loc>https://where-does-your-tax-dollar-go.pages.dev/privacy.html</loc></url>
+  <url>
+    <loc>https://where-does-your-tax-dollar-go.pages.dev/</loc>
+  </url>
+  <url>
+    <loc>https://where-does-your-tax-dollar-go.pages.dev/about.html</loc>
+  </url>
+  <url>
+    <loc>https://where-does-your-tax-dollar-go.pages.dev/privacy.html</loc>
+  </url>
 </urlset>
