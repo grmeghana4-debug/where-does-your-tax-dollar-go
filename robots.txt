@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-PROJECT.pages.dev/sitemap.xml
+Sitemap: https://where-does-your-tax-dollar-go.pages.dev/sitemap.xml
